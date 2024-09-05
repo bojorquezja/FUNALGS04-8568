@@ -1,0 +1,14 @@
+C:\Users\UPN\Downloads\FUNALGS04\repaso\bin\Debug\net8.0\repaso.exe
+C:\Users\UPN\Downloads\FUNALGS04\repaso\bin\Debug\net8.0\repaso.deps.json
+C:\Users\UPN\Downloads\FUNALGS04\repaso\bin\Debug\net8.0\repaso.runtimeconfig.json
+C:\Users\UPN\Downloads\FUNALGS04\repaso\bin\Debug\net8.0\repaso.dll
+C:\Users\UPN\Downloads\FUNALGS04\repaso\bin\Debug\net8.0\repaso.pdb
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.AssemblyInfoInputs.cache
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.AssemblyInfo.cs
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.dll
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\refint\repaso.dll
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.pdb
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\repaso.genruntimeconfig.cache
+C:\Users\UPN\Downloads\FUNALGS04\repaso\obj\Debug\net8.0\ref\repaso.dll
