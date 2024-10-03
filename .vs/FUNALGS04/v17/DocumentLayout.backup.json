@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\diegosem8\\FUNALGS04-8568\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\source\\repos\\FUNALGS04-8568\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFDEA372-594C-429F-9325-28946838060C}|repaso\\repaso.csproj|c:\\users\\upn\\desktop\\diegosem8\\funalgs04-8568\\repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFDEA372-594C-429F-9325-28946838060C}|repaso\\repaso.csproj|c:\\users\\upn\\source\\repos\\funalgs04-8568\\repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFDEA372-594C-429F-9325-28946838060C}|repaso\\repaso.csproj|solutionrelative:repaso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\diegosem8\\FUNALGS04-8568\\repaso\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\FUNALGS04-8568\\repaso\\Program.cs",
               "RelativeDocumentMoniker": "repaso\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\diegosem8\\FUNALGS04-8568\\repaso\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\source\\repos\\FUNALGS04-8568\\repaso\\Program.cs",
               "RelativeToolTip": "repaso\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T12:47:08.243Z",
               "EditorCaption": ""

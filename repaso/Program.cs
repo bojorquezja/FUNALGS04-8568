@@ -1,7 +1,7 @@
 ﻿Random r = new Random();
 int num = r.Next(1, 6+1);
 Console.WriteLine($"Salio {num}");
-
+//HIIIIIIII
 if (num == 1) {
     Console.WriteLine("Perdio");
 } else if (num == 2) {
